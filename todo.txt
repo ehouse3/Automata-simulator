@@ -1,0 +1,8 @@
+-fix file handling and file opening (convert to acutal windows file explorer)
+
+-add window to display steps of the dfa/nfa in a diagram
+	much more grander and would take learning packages
+
+-include format for file input
+
+-rework console messages to be cleaner

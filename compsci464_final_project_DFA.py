@@ -3,7 +3,8 @@
 #Compsci 464 final project
 #due may 3
 
-
+import subprocess
+subprocess.Popen()
 #change file path here to the testing nfa or dfa file
 
 #file = open("C:\\Users\\house\\Desktop\\compsci464_project\\examples\\dfadesc.txt" , "r") 
